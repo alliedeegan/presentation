@@ -1,0 +1,29 @@
+{
+  "particles": {
+    "number": {
+      "value": 24,
+    },
+    "shape": {
+      "type": "image",
+      "image": {
+        "src": "assets/apple.png",
+        "width": 100,
+        "height": 100
+      }
+    },
+    "size": {
+      "value": 39
+    },
+    "move": {
+      "out_mode": "bounce"
+    }
+  },
+  "interactivity": {
+    "events": {
+      "onhover": {
+        "enable": true,
+        "mode": "bubble"
+      }
+    }
+  }
+}
